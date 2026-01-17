@@ -1,4 +1,4 @@
-# Quick Start Guide
+# Quick Start Guide.
 
 Get up and running with SVG to ASCII / 3D ASCII Components in minutes!
 
